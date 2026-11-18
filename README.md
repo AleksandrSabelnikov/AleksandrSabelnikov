@@ -1,13 +1,13 @@
-```md
 <div align="center">
 
 # Aleksandr Sabelnikov
 
 **Building useful AI.**
 
-Founder of [НЕШТАТ](https://neshtat.ru)
+<sub>Founder & CEO · НЕШТАТ</sub>
 
-[НЕШТАТ](https://neshtat.ru) · [НЕМАШИНА](https://nemashina.ru) · [Personal](https://alexsabelnikov.ru)
+<br>
+
+[НЕШТАТ](https://neshtat.ru) &nbsp; / &nbsp; [НЕМАШИНА](https://nemashina.ru) &nbsp; / &nbsp; [PERSONAL](https://alexsabelnikov.ru)
 
 </div>
-```
