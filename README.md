@@ -1,7 +1,5 @@
-Hello 👋, I'm Aleksandr Sabelnikov, founder of [НЕШТАТ](https://neshtat.ru)
+## Building useful AI.
 
-**Building useful AI**
+Hey 👋, I'm Aleksandr. I build AI agents, language models, and intelligent systems. Currently exploring robotics.
 
-I develop AI agents, language models, and intelligent systems. Currently exploring robotics through [НЕМАШИНА](https://nemashina.ru)
-
-[Personal website](https://alexsabelnikov.ru) <3 [Telegram](https://t.me/neshtat)
+[НЕШТАТ](https://neshtat.ru) · [НЕМАШИНА](https://nemashina.ru) · [TELEGRAM](https://t.me/neshtat)
